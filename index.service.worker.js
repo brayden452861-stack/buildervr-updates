@@ -4,9 +4,9 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795812751|5609031';
+const CACHE_VERSION = '1795820599|15135183';
 /** @type {string} */
-const CACHE_PREFIX = '3D Builder VR-sw-cache-';
+const CACHE_PREFIX = 'Paintbox-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 /** @type {string} */
 const OFFLINE_URL = 'index.offline.html';
