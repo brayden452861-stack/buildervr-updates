@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795809544|24008587';
+const CACHE_VERSION = '1795810524|7612597';
 /** @type {string} */
 const CACHE_PREFIX = '3D Builder VR-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
