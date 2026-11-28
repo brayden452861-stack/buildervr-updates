@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795824611|16374939';
+const CACHE_VERSION = '1795825308|5916302';
 /** @type {string} */
 const CACHE_PREFIX = 'Paintbox-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
